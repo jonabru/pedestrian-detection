@@ -1,0 +1,11 @@
+in order to run these scripts, it will be necessary to have cv2, numpy, and imutils.object_detection, as these libraries are utilised in this project
+
+
+detect.py is used to apply pedestrian detection on still images, wherein all sample images have been obtained from Google
+detect was based off of tutorial found at https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
+
+
+video_detect.py is used to apply pedestrian detection over a live camera, which could feasibly then be used for other applications
+applying webcam steps was based on basic instruction provided in tutorials and at https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
+
+This code was written in PyCharm
